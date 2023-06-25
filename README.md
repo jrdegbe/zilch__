@@ -57,7 +57,7 @@ In total the cycling journey data contains: 10925928 entries, stations: 808 and 
 We are going to build a **Star Schema** which comprises one fact and multiple dimension tables for our Data Warehouse.
 
 The Entity Relational Diagram (ERD) for the final Data Warehouse is represented in the following image:
-![The ERD](/images//images/ERD.png)
+![The ERD](/images/ERD.png)
 
 In the transformation phase, several columns from both weather and journey data will be removed. Also, we will add dimension table dim_datetime which will contain the reference for all datetime-related columns.
 
