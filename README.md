@@ -28,7 +28,7 @@ The current work aims to give answers to business questions concerning bicycle r
 
 The following diagram illustrates a high-level structure of the pipeline where data flows from different sources to the final visualization tool.
 
-![The ELT](/images/(images/architecture.png))
+![The ELT](/images/architecture.png)
 
 ## The Goal
 The end goal of the current project is to preprocess the data on the AWS platform and get useful insights from it. We can learn more from the data by responding to some of the following business questions on the final dashboard.
