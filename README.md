@@ -28,7 +28,7 @@ The current work aims to give answers to business questions concerning bicycle r
 
 The following diagram illustrates a high-level structure of the pipeline where data flows from different sources to the final visualisation tool.
 
-![The ELT](/images/batch-on-aws.png)
+![The ELT](/images/architecture.png)
 
 
 ## The Goal
