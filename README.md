@@ -28,7 +28,7 @@ The current work aims to give answers to business questions concerning bicycle r
 
 The following diagram illustrates a high-level structure of the pipeline where data flows from different sources to the final visualization tool.
 
-![The ELT](/images/(images/architecture.png))
+![The ELT](/images/(https://github.com/jrdegbe/zilch__/blob/3e9e9dd6be6460a3ffb99e16d913afe1befdd7a3/images/architecture.png))
 
 
 ## The Goal
